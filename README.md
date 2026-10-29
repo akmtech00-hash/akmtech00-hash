@@ -1,60 +1,65 @@
 <!--
   GitHub profile README for akmtech00-hash
-  Founder-focused AI + growth brand profile
+  Modern founder-style profile design
 -->
 
-<h1 align="center">Akm Tech</h1>
-
-<p align="center">
+<div align="center">
   <img src="https://github.com/akmtech00-hash.png" width="180" height="180" alt="Profile avatar for akmtech00-hash" />
+</div>
+
+<h1 align="center">AKM Tech</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Founder+%7C+AI+Engineer+%7C+Full-Stack+Developer;Building+AI-powered+products+and+growth+systems;Turning+ideas+into+scalable+digital+brands" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Founder | AI Engineer | Full Stack Developer | Growth Strategist | SEO | GEO | AEO | AXO</strong>
+  <strong>Founder | AI Engineer | Full Stack Developer | Growth Strategist</strong>
 </p>
 
 <p align="center">
-  I build AI-powered products, scalable digital platforms, and growth systems that turn innovation into visibility, traction, and real business impact.
+  I build AI-powered products, scalable web platforms, and digital growth systems that help businesses become visible, valuable, and future-ready.
 </p>
 
 <p align="center">
   <a href="https://github.com/akmtech00-hash" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%40akmtech00--hash-181717?style=flat-square&logo=github" alt="GitHub profile link for akmtech00-hash" />
+    <img src="https://img.shields.io/badge/GitHub-%40akmtech00--hash-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile link for akmtech00-hash" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Your%20Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn profile link" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-2E8555?style=flat-square" alt="Portfolio website link" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-2E8555?style=for-the-badge" alt="Portfolio website" />
   </a>
   <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email contact link" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
   </a>
 </p>
 
+---
+
 ## About Me
 
-I work at the intersection of engineering, AI, product design, and digital growth. My mission is simple: build tools and systems that help businesses scale intelligently in an increasingly AI-driven digital ecosystem.
+I work at the intersection of engineering, AI, product strategy, and digital growth. My focus is on creating systems that are not only technically strong, but also discoverable, scalable, and business-driven.
 
 I combine:
 - software engineering
 - AI product development
 - full stack architecture
 - search visibility strategy
-- growth marketing
-- performance optimization
-- business-focused product thinking
+- growth systems and optimization
+- execution-focused product thinking
 
-## Expertise
+---
+
+## Core Expertise
 
 ### AI & Product
 - AI Engineering
-- Machine Learning
-- AI Automation
-- Product Development
-- SaaS Product Design
 - Workflow Automation
-- Data-Driven Systems
+- SaaS Product Development
+- Machine Learning Integration
+- AI Search & Visibility
 
 ### Engineering
 - Python
@@ -64,12 +69,8 @@ I combine:
 - Next.js
 - Node.js
 - API Development
-- Full Stack Engineering
 - Cloud Architecture
 - DevOps
-- AWS
-- Azure
-- GCP
 - Docker
 - Kubernetes
 
@@ -79,45 +80,30 @@ I combine:
 - AEO
 - AXO
 - Search Optimization
-- AI Search Visibility
-- Digital Marketing
-- Growth Marketing
-- Performance Marketing
-- Paid Ads
-- SEM
-- Web Analytics
 - Brand Visibility
+- Performance Marketing
+- Growth Strategy
 - Lead Generation
-- Content Strategy
 
-## Philosophy
-
-I believe the strongest companies are the ones that blend:
-- technical excellence
-- AI-driven innovation
-- clear digital positioning
-- measurable growth systems
-- user-centric product design
-
-## Mission
-
-To build technology that is not only powerful, but discoverable, scalable, and growth-ready.
-
-## Focus Areas
-
-- AI Product Engineering
-- Startup Product Building
-- Search & AI Visibility
-- Digital Brand Growth
-- Scalable Web Platforms
-- Automation & Efficiency
-- Business-Driven Tech Strategy
+---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,aws,gcp,docker,kubernetes,git,github,figma" alt="Technology stack icons for JavaScript, TypeScript, React, Next.js, Node.js, Python, AWS, GCP, Docker, Kubernetes, Git, GitHub, Figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,aws,gcp,docker,kubernetes,git,github,figma" alt="Technology stack icons for JavaScript, TypeScript, React, Next.js, Node.js, Python, AWS, GCP, Docker, Kubernetes, Git, GitHub, and Figma" />
 </p>
+
+---
+
+## Current Focus
+
+- Building AI-powered digital products
+- Designing scalable systems with clean architecture
+- Improving search visibility and AI discoverability
+- Creating growth engines for modern brands
+- Turning technology into measurable business outcomes
+
+---
 
 ## GitHub Stats
 
@@ -130,11 +116,12 @@ To build technology that is not only powerful, but discoverable, scalable, and g
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akmtech00-hash&theme=tokyonight&hide_border=true" alt="GitHub streak stats for akmtech00-hash" />
 </p>
 
-## Connect
-
-GitHub: @akmtech00-hash
-Focus: AI Engineering • Full Stack • Search Visibility • Growth Systems • Digital Brand Building
-
 ---
 
+## Mission
+
 > Building AI-powered products and digital growth systems that help brands become visible, scalable, and future-ready.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akmtech00-hash&style=flat-square&color=8B5CF6" alt="Profile views" />
+</div>
