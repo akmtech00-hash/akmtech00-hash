@@ -1,29 +1,29 @@
 <!--
   GitHub profile README for akmtech00-hash
-  Modern founder-style profile design
+  Bold startup founder style
 -->
 
 <div align="center">
-  <img src="https://github.com/akmtech00-hash.png" width="180" height="180" alt="Profile avatar for akmtech00-hash" />
+  <img src="https://github.com/akmtech00-hash.png" width="170" height="170" alt="AKM Tech profile avatar" />
 </div>
 
 <h1 align="center">AKM Tech</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Founder+%7C+AI+Engineer+%7C+Full-Stack+Developer;Building+AI-powered+products+and+growth+systems;Turning+ideas+into+scalable+digital+brands" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Founder+%7C+AI+Engineer+%7C+Product+Builder;Building+AI-powered+products+that+scale;Turning+ideas+into+traction+and+growth" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Founder | AI Engineer | Full Stack Developer | Growth Strategist</strong>
+  <strong>Founder • AI Engineer • Full-Stack Developer • Growth Strategist</strong>
 </p>
 
 <p align="center">
-  I build AI-powered products, scalable web platforms, and digital growth systems that help businesses become visible, valuable, and future-ready.
+  I build <b>AI products</b>, <b>scalable web systems</b>, and <b>digital growth engines</b> that turn technology into measurable business impact.
 </p>
 
 <p align="center">
   <a href="https://github.com/akmtech00-hash" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%40akmtech00--hash-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile link for akmtech00-hash" />
+    <img src="https://img.shields.io/badge/GitHub-%40akmtech00--hash-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
@@ -38,41 +38,41 @@
 
 ---
 
-## About Me
+## About
 
-I work at the intersection of engineering, AI, product strategy, and digital growth. My focus is on creating systems that are not only technically strong, but also discoverable, scalable, and business-driven.
+I work at the intersection of engineering, AI, product strategy, and growth. My mission is to build software that is not only technically strong, but also commercially valuable, visible, and scalable.
 
-I combine:
-- software engineering
+I focus on:
 - AI product development
-- full stack architecture
-- search visibility strategy
-- growth systems and optimization
-- execution-focused product thinking
+- scalable full-stack architecture
+- automation and workflow systems
+- digital visibility and search growth
+- founder-led product execution
 
 ---
 
 ## Core Expertise
 
-### AI & Product
+### Product & AI
 - AI Engineering
-- Workflow Automation
-- SaaS Product Development
+- AI Automation
+- SaaS Product Building
+- Product Strategy
+- Workflow Design
 - Machine Learning Integration
-- AI Search & Visibility
 
 ### Engineering
-- Python
 - JavaScript
 - TypeScript
 - React
 - Next.js
 - Node.js
+- Python
 - API Development
 - Cloud Architecture
-- DevOps
 - Docker
 - Kubernetes
+- DevOps
 
 ### Growth & Visibility
 - SEO
@@ -81,39 +81,39 @@ I combine:
 - AXO
 - Search Optimization
 - Brand Visibility
-- Performance Marketing
-- Growth Strategy
+- Digital Growth
+- Performance Strategy
 - Lead Generation
 
 ---
 
-## Tech Stack
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,aws,gcp,docker,kubernetes,git,github,figma" alt="Technology stack icons for JavaScript, TypeScript, React, Next.js, Node.js, Python, AWS, GCP, Docker, Kubernetes, Git, GitHub, and Figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,aws,gcp,docker,kubernetes,git,github,figma" alt="Technologies and tools used by AKM Tech" />
 </p>
 
 ---
 
 ## Current Focus
 
-- Building AI-powered digital products
-- Designing scalable systems with clean architecture
-- Improving search visibility and AI discoverability
-- Creating growth engines for modern brands
-- Turning technology into measurable business outcomes
+- Building AI-powered products
+- Creating scalable digital systems
+- Improving brand visibility and discoverability
+- Turning technical ideas into business outcomes
+- Shipping products with clarity and speed
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akmtech00-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats for akmtech00-hash" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmtech00-hash&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages for akmtech00-hash" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akmtech00-hash&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="AKM Tech GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmtech00-hash&layout=compact&theme=radical&hide_border=true" alt="AKM Tech top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akmtech00-hash&theme=tokyonight&hide_border=true" alt="GitHub streak stats for akmtech00-hash" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akmtech00-hash&theme=radical&hide_border=true" alt="AKM Tech streak stats" />
 </p>
 
 ---
@@ -123,5 +123,5 @@ I combine:
 > Building AI-powered products and digital growth systems that help brands become visible, scalable, and future-ready.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akmtech00-hash&style=flat-square&color=8B5CF6" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=akmtech00-hash&style=flat-square&color=7C3AED" alt="Profile views" />
 </div>
